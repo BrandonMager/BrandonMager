@@ -5,7 +5,8 @@
 - 📫 How to reach me:
 - Email: sotogarciabrandon@gmail.com
 - Phone: (213) - 269 - 9565
-- LinkedIn: Brandon Soto Garcia
+- LinkedIn: https://www.linkedin.com/in/brandon-soto-garcia-9460721bb/
+- Website: https://brandonmager.netlify.app
 
 <!---
 BrandonMager/BrandonMager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

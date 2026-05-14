@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon Soto
-- 👀 I’m interested in finding internships and opportunities to learn more on Software Engineering and Development
+- 👀 I’m interested in finding Software Engineering New Graduate roles
 - 🌱 I’m currently pursuing a Bachelor's Degree in Computer Science at UC Irvine
 - I’m looking to collaborate on open-source projects and intern projects
 - 📫 How to reach me:

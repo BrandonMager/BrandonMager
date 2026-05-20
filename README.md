@@ -23,7 +23,7 @@
 
 <br>
 <div align = "center">
-     <img src ="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,mongodb,postgres" />
+     <img src ="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,mongodb,postgres,java" />
      <br>
      <img src ="https://skillicons.dev/icons?i=html,css,tailwind,aws,docker,kubernetes,git,terraform,go,jenkins">
 </div>

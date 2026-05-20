@@ -5,7 +5,7 @@
 ### A Junior Software Engineer graduating in mid-June at UC Irvine with a Bachelor's of Computer Science, with previous internship experiences within DevOps applications (CI Platform & Storage Infrastructure Work) & Backend Development. 
 
 - I'm currently seeking Software Engineer, New Graduate (Infrastructure or Backend) roles in California (preferrably Los Angeles county area) as I am strong in Storage Infrastrcuture, Cloud Infrastructure, and Backend teams. I am also open to any other software engineering new grad roles as fit.
-- I'm currently learning System Design and also creating a [self-hostable storage infrastructure system] (https://github.com/BrandonMager/CacheProxyfy)
+- I'm currently learning System Design and also creating a [self-hostable storage infrastructure system](https://github.com/BrandonMager/CacheProxyfy)
 - Ask me anything about my internship experiences, work, or any opportunties. My latest internship was under CI Platform as a Software Engineering Intern in Pinterst in California.
 
 <div align = "center">
